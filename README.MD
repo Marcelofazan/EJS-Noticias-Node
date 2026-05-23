@@ -1,4 +1,4 @@
-## 🚀 Node-Noticias-EJS
+## 🌍 Node-Noticias-EJS
 Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 
 #### O que você vai encontrar neste projeto
