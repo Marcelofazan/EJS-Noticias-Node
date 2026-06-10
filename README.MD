@@ -53,7 +53,8 @@ Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços.
 | Metodo: POST | http://localhost:3000/formulario_inclusao_noticia  |
 | Metodo: GET/{id}| http://localhost:3000/noticia?id_noticia={id}|
 
-- Aqui uma Demonstração do Projeto:
+#### 🎨 Aqui uma Demonstração do Projeto:
+
 https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 
 
