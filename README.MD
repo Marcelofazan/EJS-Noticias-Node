@@ -14,7 +14,7 @@ https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 #### 💬 Requisitos do Projeto
 - Para executar a aplicação é necessário a executar o Script do MySQL.
 
-Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços. 
+Pode ser usado o arquivo BAT altere em [SUA_SENHA], adicionando após (-p) sem espaços. 
 ```bash
 %MYSQL_BIN% -u root -p[SUA_SENHA] < "Database\ScriptDatabase.sql"
 ``` 
