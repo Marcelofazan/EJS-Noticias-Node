@@ -1,7 +1,7 @@
 ## 🌐 EJS-Noticias-Node-mvp
 Aplicativo de notícias em EJS View Engine e Node.js com banco de dados MySQL.
 
-#### 🎨 Aqui uma Demonstração do Projeto:
+#### 🎨 Aqui uma Demonstração do Projeto
 https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 
 #### 📋 O que você vai encontrar neste projeto
