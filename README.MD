@@ -12,7 +12,7 @@ https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 | **Consign** |Biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
 
 #### 💬 Requisitos do Projeto
-- Para executar a aplicação é necessário a executar o Script do MySQL.
+- Para executar a aplicação é necessário executar o Script do MySQL.
 
 Pode ser usado o arquivo BAT altere em [SUA_SENHA], adicionando após (-p) sem espaços. 
 ```bash
