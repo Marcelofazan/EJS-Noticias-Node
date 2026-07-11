@@ -1,4 +1,4 @@
-## 🌐 EJS-Noticias-Node
+## 🌐 EJS-Node-Noticias
 Exemplo de projeto de notícias em EJS View Engine e Node.js com banco de dados MySQL.
 
 #### 🎨 Aqui uma Demonstração do Projeto
